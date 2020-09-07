@@ -2,9 +2,11 @@
 
 > My passion is to become an SRE engineer. I hope I may be granted a personal interview if you feel my qualifications fit me for the position needed. Looking forward to working with your esteemed organization.
 
-# ☎️ Contact information
+## ☎️ Contact information
 
 📧 Email address: phamhoanglinh198@gmail.com
+
+🔗 Github: [https://github.com/licolsan](https://github.com/licolsan)
 
 🔗 LinkedIn: [https://www.linkedin.com/in/linh-phạm-hoàng-6a4295137/](https://www.linkedin.com/in/linh-ph%E1%BA%A1m-ho%C3%A0ng-6a4295137/)
 
@@ -14,87 +16,53 @@
 
 ---
 
-# 🛠 Technical skills
+## 🛠 Technical stack
 
-### Docker Swarm
+Language `java` | `python` | `groovy` | `ruby`
 
-Docker swarm is an orchestration tool that its configure is simple. I used to research orchestration tools, and I choose swarm to start learning. Although swam still has limitations, and sometimes faults, I think it is good enough for my beginning steps on DevOps journey.
+Cloud stack `google cloud datastore` | `heroku` | `netlify` | `cloudinary`
 
-### Ansible
+Ops stack `docker-swarm` | `ansible` | `vagrant` | `jenkins` | `nginx`
 
-Ansible allows me to run a sequence of commands to one or multiple computers. I used to play with playbooks to install dependency packages on a computer before joining it to a cluster. It saves time for me very much because I do not have to type commands line by line manually.
-
-### Vagrant
-
-Vagrant is a tool that helps us to set up virtual machines fastly in the local computer so that we can do experiment with other orchestration and automation technologies locally. I used Vagrant to set up my own docker swarm cluster. It saves time for me on the way of learning docker swarm & ansible.
+Blockchain stack `ethereum` | `web3js` | `truffle` | `solidity`
 
 ---
 
-# **👩🏻‍💻** Work experience
+## 📜 Working experience
 
-## Data Engineer
+### Software/DevOps Engineer
+
+Fpt Software *– (Aug 2020 - Now)*
+
+`jenkins external library`
+
+### Data Engineer
 
 M_Service *– (Dec 2019 - May 2020)*
 
-Data engineer in the team in charge of building a data platform that meets the following criteria:
+`data correctness` | `data security` | `data SLA` | `data monitoring`
 
-- Provided data must be masked all sensitive information
-- Provided data must be correct
-- Latest data need to be ensured to be committed as soon as possible
-- Cost for data pipeline is under control
+`factory design pattern`
 
-Responsibilities
-
-- Apply monitoring resource on data platform
-- Apply cost management strategies for storage of cloud services
-- Enhance security on the data pipeline by hiding sensitive information
-- Build data quality service to monitor the correctness of data
-
-## Python Developer
+### Python Developer
 
 ChatQ *– (Jan 2019 - Jun 2019)*
 
-Responsibilities
+`micro-service` | `mqtt`
 
-- Meet and discuss with team about architecture of micro-services
-- Maintain code of current system
-- Implement & improve feature for chatting
-
-Achievement
-
-- Learned concepts and mechanism of MQTT protocol
-- Learned & studied microservice architecture
-- Learned & studied to work with Datastore (NoSQL database of Google cloud)
-
-## Ruby on Rails internship
+### Ruby on Rails internship
 
 Fetch Technology Vietnam *– (Dec 2017 - Sep 2018)*
 
-Product
-
-- Description: a blockchain crowdfunding platform
-- Responsibilities:
-    - Develop smart contracts for experiment version
-    - Maintain code in the current system
-    - Discuss with the client about researching strategies of technology stacks
-
-Accomplishments
-
-- Improved communication skill in working, discussing, solving problems with foreign client
-- Learned & studied blockchain stacks: Ethereum, Web3JS, Truffle, Solidity
-- Learned front-end stack: MithrilJS
-- Learned to use cloud service: Heroku, Cloudinary
-- Learned to containerize services using Docker
+`blockchain` | `mithrilJS`
 
 ---
 
-# 📽️ Side project
+## 📽️ Time Investment
 
-### SwarmHat
+Technical writing [LRU cache](https://blog-of-pet.netlify.app/vi/algorithm/lru-cache/)
 
-I decided to learn the above skillset by implementing a platform that automatically inits and set up a simple cluster in local computer with virtual machines.
-
-You can check out the code from [this link](https://github.com/licolsan/swarm-hat).
+Side project [swarm hat](https://github.com/licolsan/swarm-hat) | [fancy quiz app](https://github.com/licolsan/quiz-vue) | [pet adoption](https://github.com/licolsan/adopt-pets-vue)
 
 ---
 
@@ -118,15 +86,7 @@ I gained some prizes when I was at my university. It makes my student's life mor
 
 *FPT University - (2015-2019)*
 
-Capstone project
-
-- Name: Book Share Management without Warehouse
-- Description: book sharing without warehouse based on a blockchain database
-- Responsibilities
-    - Research blockchain platform: BigchainDB
-    - Integrate blockchain platform service to the backend
-
-[Source code](https://github.com/fuchain/librarian-module) | [presentation & demo](https://drive.google.com/file/d/1NdZ5bIbGAVdoyE40arx6FGZryRPqUllq/view) | [slide](https://drive.google.com/file/d/1S4xOiMj-RgL_aUxDJvmEEm0GaJPzSGG_/view)
+Capstone project [source code](https://github.com/fuchain/librarian-module) | [presentation & demo](https://drive.google.com/file/d/1NdZ5bIbGAVdoyE40arx6FGZryRPqUllq/view) | [slide](https://drive.google.com/file/d/1S4xOiMj-RgL_aUxDJvmEEm0GaJPzSGG_/view)
 
 ### Higher Diploma Degree in Infrastructure Management Services
 
