@@ -20,7 +20,7 @@
 
 Language `java` | `python` | `groovy` | `ruby`
 
-Cloud stack `google cloud datastore` | `heroku` | `netlify` | `cloudinary`
+Cloud stack `gcloud`  | `aws` | `heroku` | `netlify` | `cloudinary`
 
 Ops stack `docker-swarm` | `ansible` | `vagrant` | `jenkins` | `nginx`
 
@@ -34,7 +34,13 @@ Blockchain stack `ethereum` | `web3js` | `truffle` | `solidity`
 
 Fpt Software *– (Aug 2020 - Now)*
 
-`jenkins external library`
+`jenkins external library` | `infrastructure as code` | `deployment strategy` | `cloud native driven` | `aws` 
+
+Tasks
+
+- Implement *jenkins external library* for CI/CD flow
+- Apply *deployment strategy* for internal product
+- Apply *infrastructure as code* (using cloudformation)
 
 ### Data Engineer
 
@@ -42,19 +48,36 @@ M_Service *– (Dec 2019 - May 2020)*
 
 `data correctness` | `data security` | `data SLA` | `data monitoring`
 
-`factory design pattern`
+Responsibilities
+
+- Build *data quality service* to monitor the correctness of data
+- Implement *data SLA* solution to adapt business growth
+- Enhance *security* on the data pipeline by hiding sensitive information
+- Visualize flow of data to *monitor data ETLs* (time execution, upstream/downstream)
 
 ### Python Developer
 
-ChatQ *– (Jan 2019 - Jun 2019)*
+Fetch Technology Vietnam/ChatQ *– (Jan 2019 - Jun 2019)*
 
-`micro-service` | `mqtt`
+`micro-service` | `mqtt` | `factory design pattern`
+
+Tasks
+
+- Meet and discuss with team about architecture of *micro-services*
+- Apply *mqtt protocol* into micro-service
+- Apply *factory design pattern* for extendibility
 
 ### Ruby on Rails internship
 
 Fetch Technology Vietnam *– (Dec 2017 - Sep 2018)*
 
-`blockchain` | `mithrilJS`
+`blockchain` | `mithrilJS` | `cloud service`
+
+Accomplishments
+
+- Learned & studied *blockchain stacks*: Ethereum, Web3JS, Truffle, Solidity
+- Learned *front-end stack*: MithrilJS
+- Learned to use *cloud service*: Heroku, Cloudinary
 
 ---
 
