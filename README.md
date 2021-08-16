@@ -16,23 +16,17 @@
 
 ---
 
-## 🛠 Technical stack
-
-Language `java` | `python` | `groovy` | `ruby`
-
-Cloud stack `gcloud`  | `aws` | `heroku` | `netlify` | `cloudinary`
-
-Ops stack `docker-swarm` | `ansible` | `vagrant` | `jenkins` | `nginx`
-
-Blockchain stack `ethereum` | `web3js` | `truffle` | `solidity`
-
----
-
 ## 📜 Working experience
+
+### Infratructure Engineer
+
+Grab *– (Feb 2021 - Now)*
+
+`terraform` | `ansible` | `packer` | `aws` | `jenkins` | `gitops` | `linux`
 
 ### Software/DevOps Engineer
 
-Fpt Software *– (Aug 2020 - Now)*
+Fpt Software *– (Aug 2020 - Feb 2021)*
 
 `jenkins external library` | `infrastructure as code` | `deployment strategy` | `cloud native driven` | `aws` 
 
